@@ -1,0 +1,37 @@
+Atalhos Eclipse
+
+Ctrl N - abrir janela para criar projeto, arquivo, class, etc (msm coisa que File, New)
+
+Ctrl Espaço - para abrir opções de comandos existentes realcionado a palavra digitada
+
+F2 - com o pacote selecionado, serve para alterar o nome do pacote
+
+Ctrl 3 - para abrir um navegador de comandos
+
+Ctrl D - apaga linha
+
+Alt seta pra cima - muda um bloca selecionado para cima;
+
+Ctrl Shif F - arruma a identação do código
+
+Ctrl Shif O - fazer importação doq for necessário 
+
+Ctrl W - fecha janela
+Ctrl Shif W - fecha todas as janelas
+
+DEBUG ATALHOS
+	F5(Step Into) - vai até o metódo
+	F6(Step Over) - vai executando linha por linha
+	F7(Step Return) - se tiver dentro do método (F5), volta para a linha que chama o método. Se estiver em uma linha do próprio programa, retorna uma linha;
+
+
+
+
+-----------------------------------------------------------------------------
+Caminho para Git/GitHub através do eclipse - Botão direito no projeto, Team, Share Project
+
+
+
+
+
+ 
